@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ndkdemo</string>
+    <string name="register">已注册</string>
+    <string name="unregister">未注册</string>
+    <string name="successed">注册成功</string>
+    <string name="unsuccessed">注册失败</string>
+</resources>
